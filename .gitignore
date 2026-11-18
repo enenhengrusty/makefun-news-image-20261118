@@ -1,0 +1,9 @@
+# build / render output
+out/
+*.tar.gz
+
+# python caches
+__pycache__/
+
+# local preview thumbnails
+preview_*.png
